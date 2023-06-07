@@ -1,0 +1,1 @@
+print ("Hello. It it is just for test.")
